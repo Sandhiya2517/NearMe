@@ -196,12 +196,7 @@ temple.html
 ![alt text](<Screenshot 2024-12-03 144931.png>)
 ![alt text](<Screenshot 2024-12-03 144943.png>)
 ![alt text](<Screenshot 2024-12-03 144956.png>)
-
-
-
-
-
-
+![alt text](<Screenshot 2024-12-06 085802.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
